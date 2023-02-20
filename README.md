@@ -9,4 +9,4 @@ Usage: **Left click to +1, right click to -1**, edit [this line](https://github.
 
 ----
 
-<a href="https://github.com/VitoVan/calm"><img src="https://github.com/VitoVan/made-with-calm/raw/main/images/made-with-calm-no-margin.png" width="240px" /></a>
+<a href="https://github.com/VitoVan/made-with-calm"><img src="https://github.com/VitoVan/made-with-calm/raw/main/images/made-with-calm-no-margin.png" width="240px" /></a>
